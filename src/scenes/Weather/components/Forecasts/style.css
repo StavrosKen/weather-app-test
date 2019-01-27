@@ -1,0 +1,26 @@
+.forecastsContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.forecastsTable {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .forecastsTable td, .forecastsTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .forecastsTable tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .forecastsTable tr:hover {background-color: #ddd;}
+  
+  .forecastsTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #6cacfb;
+    color: white;
+  }

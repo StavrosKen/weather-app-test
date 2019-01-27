@@ -1,0 +1,21 @@
+.addCityForm {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.addCityForm input {
+    width: 273px;
+    padding: 5px 9px;
+    margin-right: 15px;
+    border-radius: 4px;
+    border: 1px solid #bdbdbd;
+}
+
+.addCityForm button {
+    float: right;
+    padding: 5px 20px;
+    background: white;
+    border-radius: 4px;
+    border: 1px solid #bdbdbd;
+    cursor: pointer;
+}

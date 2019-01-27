@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.weatherScene {
+  
+}
+
+.weatherScene h1 {
+  text-align: center;
+}
